@@ -8,7 +8,7 @@
 
 <?php
 
-	echo "<h1>Alhamdulillah</h2>";
+	echo "<h1>Alhamdulillah berjaya</h2>";
 	
 ?>
 
